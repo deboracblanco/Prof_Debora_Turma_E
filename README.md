@@ -3,8 +3,10 @@ Cursista do Grupo de Estudos Formadores em Ação Pensamento Computacional 2023 
 
 ## Linguagem utilizada
 -HTML
+
 -CSS
 
 ## Software
 Para o manuseio do projeto você precisará dos seguintes softwares:
+
 -SUblime, VS code, Atom...
